@@ -3,16 +3,6 @@ import { AI_NAME } from './config';
 export const AI_NAME = "PersonalDesigner";
 
 
-export const WELCOME_MESSAGE = `
-Hi, I’m PersonalDesigner – your AI wardrobe stylist.
-
-Tell me: 
-1) What’s the occasion today (business formal, business casual, college, brunch, party, travel, date, etc.)?
-2) Where are you going (office, campus, mall, restaurant, club, airport, etc.)?
-3) Any pieces you want to wear or avoid?
-
-I’ll build 1–3 outfits using ONLY clothes from your own closet and share the image links for each item.
-`;
 
 
 export const IDENTITY_PROMPT = `
