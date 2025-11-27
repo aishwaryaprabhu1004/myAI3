@@ -1,4 +1,4 @@
-import { DATE_AND_TIME, OWNER_NAME } from './config';
+import { DATE_AND_TIME } from './config';
 import { AI_NAME } from './config';
 export const AI_NAME = "PersonalDesigner";
 
